@@ -1,0 +1,19 @@
+body {
+    background-image: url(images/background.jpg);
+}
+.bg-cover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+nav {
+    padding: 25px 50px;
+    .red-button {
+        
+    }
+}
+.container {
+    position: relative;
+    z-index: 1;
+}
